@@ -10,3 +10,9 @@ Technologies used:
 Architecture:
 
 Client → NGINX → Backend Services
+## Features
+
+- Reverse proxy using NGINX
+- Containerized services using Docker
+- Service routing
+- Scalable architecture
